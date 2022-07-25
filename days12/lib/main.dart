@@ -2,7 +2,7 @@ import 'package:days12/pages/home_page.dart';
 import 'package:days12/pages/login_page.dart';
 import 'package:days12/utils/routes.dart';
 import 'package:days12/widgets/theme.dart';
-import 'package:flutter/material.dart';
+import 'flutter';
 
 void main(List<String> args) {
   runApp(MyApp());
