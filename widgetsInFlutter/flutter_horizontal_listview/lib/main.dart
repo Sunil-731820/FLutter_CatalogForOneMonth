@@ -6,7 +6,7 @@ void main(List<String> args) {
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    final title = 'GeeksForGeeks';
+    final title = 'Horizontal Scroll view In Flutter';
  
     return MaterialApp(
       title: title,
